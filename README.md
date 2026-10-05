@@ -21,6 +21,10 @@ The analysis uses an event-level e-commerce behavioral dataset containing produc
 - remove-from-cart events
 - purchases
 
+**Source:** [eCommerce Events History in Cosmetics Shop — Kaggle](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop)
+
+The dataset was provided by REES46 Marketing Platform and contains behavioral events from a medium-sized online cosmetics store. This project uses the October 2019 file (`2019-Oct.csv`).
+
 The raw dataset contains more than **4 million events**.
 
 The raw CSV is not included in this repository due to file size. The analysis expects the dataset to be stored locally in the `data/` directory.
